@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Molana2022/Molana2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nasim Molana**, a **Front-End Developer** passionate about building clean and user-friendly web applications using **React.js, TypeScript, HTML5, and CSS3**.  
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Next.js** and exploring modern frontend architectures.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [nsm.molana@gmail.com](mailto:nsm.molana@gmail.com)  
+
+💻 Some of my projects showcase my skills and design approach.  
+
+---
+
+### 🔧 Tech & Tools
+- **Frontend:** React.js, Next.js, TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Tools:** VS Code, Git, GitHub, Docker  
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning complex problems into simple, elegant UI solutions while constantly learning new technologies.
