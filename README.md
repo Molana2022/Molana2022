@@ -2,7 +2,8 @@
 
 I'm **Nasim Molana**, a **Front-End Developer** passionate about building clean and user-friendly web applications using **React.js, TypeScript, HTML5, and CSS3**.  
 
-🌱 I’m currently learning **Next.js** and exploring modern frontend architectures.  
+🌱 I’m currently enhancing my frontend development skills through a Weiterbildung at velpTEC GmbH Hannover, covering JavaScript, React, Git, and version control.
+This training runs until January 2026 and prepares me for modern frontend roles in Germany.    
 
 📫 How to reach me: [nsm.molana@gmail.com](mailto:nsm.molana@gmail.com)  
 
